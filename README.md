@@ -8,7 +8,7 @@ View the [Github page version](https://kraasch.github.io/unofficial-meta-data_lo
 
 This site collects some of the information about the videos and adds a few more.
 
-Information extracted:
+Table's column key:
 
   1. index number
   1. date of publishing on Youtube
@@ -16,17 +16,17 @@ Information extracted:
   1. some tags about the type of job
   1. monthly income (before taxes = Brutto)
   1. flag #1: school type
-    - H = Hochschule (Uni or FH = Fachhochschule) -- higher education
-    - A = Ausbildung -- traditional education
-    - W = without education
+   - H = Hochschule (Uni or FH = Fachhochschule) -- higher education
+   - A = Ausbildung -- traditional education
+   - W = without education
   1. flag #2: Domain of job
-    - O = Beamte (Ausbildung, Uni and without) -- government officials
-    - D = digital new jobs
-    - E = engineering jobs
-    - M = misc
+   - O = Beamte (Ausbildung, Uni and without) -- government officials
+   - D = digital new jobs
+   - E = engineering jobs
+   - M = misc
   1. flag #3: freelance or not
-    - F = Sebstständig -- freelancers
-    - P = Angestellter -- employee
+   - F = Sebstständig -- freelancers
+   - P = Angestellter -- employee
   1. m/f: male or female.
   1. job title (German)
   1. job title (English translation)
