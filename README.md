@@ -5,6 +5,8 @@
 View the [Github page version](https://kraasch.github.io/unofficial-meta-data_lohnt-sich-das.github.io/).
 
 [Lohnt sich das](https://www.youtube.com/@Lohntsichdas/videos) (Does it pay?) is published by the Bavarian Broadcaster (BR).
+Please note: the information in this table is not only unofficial, it is also most likely incorrect or imprecise.
+It only serves as a rough help and overview over the series content.
 
 This site collects some of the information about the videos and adds a few more.
 
