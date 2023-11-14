@@ -12,27 +12,27 @@ This site collects some of the information about the videos and adds a few more.
 
 Table's column key:
 
-  1. index number
-  1. date of publishing on Youtube
-  1. video URL from Youtube
-  1. some tags about the type of job
-  1. gro -- monthly income Brutto (after taxes, gross income) in Euros
-  1. net -- monthly income Netto (before taxes, net income) in Euros
-  1. flag #1: school type
+ - index number
+ - date of publishing on Youtube
+ - video URL from Youtube
+ - some tags about the type of job
+ - gro -- monthly income Brutto (after taxes, gross income) in Euros
+ - net -- monthly income Netto (before taxes, net income) in Euros
+ - flag #1: school type
    - H = Hochschule (Uni or FH = Fachhochschule) -- higher education
    - A = Ausbildung -- traditional education
    - W = without education
-  1. flag #2: Domain of job
+ - flag #2: Domain of job
    - O = Beamte (Ausbildung, Uni and without) -- government officials
    - D = digital new jobs
    - E = engineering jobs
    - M = misc
-  1. flag #3: freelance or not
+ - flag #3: freelance or not
    - F = Sebstständig -- freelancers
    - P = Angestellter -- employee
-  1. m/f: male or female.
-  1. job title (German)
-  1. job title (English translation)
+ - m/f: male or female.
+ - job title (German)
+ - job title (English translation)
 
 | no. | date     | weblink                                     | gro  | net  | #1  | #2  | #3  | m/f | german title                                     | english title                                                          |
 | --- | ---      | ---                                         | ---  | ---  | --- | --- | --- | --- | ---                                              | ---                                                                    |
