@@ -1,9 +1,21 @@
 
 
-# Broadcast series "Lohnt sich das?" by the Bavarian Rundfunk (BR)
+# Unofficial meta info about 'Lohnt sich das?'
 
-View the page [here](https://kraasch.github.io/unofficial-meta-data_lohnt-sich-das.github.io/)
+View the [Github page version](https://kraasch.github.io/unofficial-meta-data_lohnt-sich-das.github.io/).
 
-## List of different jobs 
+[Lohnt sich das](https://www.youtube.com/@Lohntsichdas/videos) (Does it pay?) is published by the Bavarian Broadcaster (BR).
 
-https://www.youtube.com/@Lohntsichdas/videos
+This site collects some of the information about the videos and adds a few more.
+
+Information extracted:
+
+ - video URL from youtube
+ - video title
+ - job title (German)
+ - monthly pay
+
+Additional info:
+ - job title (English translation)
+ - some tags about the type of job
+
